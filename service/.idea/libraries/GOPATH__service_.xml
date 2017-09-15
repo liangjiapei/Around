@@ -1,6 +1,8 @@
 <component name="libraryTable">
   <library name="GOPATH &lt;service&gt;">
     <CLASSES>
+      <root url="file://$USER_HOME$/go/src/cloud.google.com" />
+      <root url="file://$USER_HOME$/go/src/google.golang.org" />
       <root url="file://$USER_HOME$/go/src/sourcegraph.com" />
       <root url="file://$USER_HOME$/go/src/github.com" />
       <root url="file://$USER_HOME$/go/src/gopkg.in" />
@@ -8,6 +10,8 @@
     </CLASSES>
     <JAVADOC />
     <SOURCES>
+      <root url="file://$USER_HOME$/go/src/cloud.google.com" />
+      <root url="file://$USER_HOME$/go/src/google.golang.org" />
       <root url="file://$USER_HOME$/go/src/sourcegraph.com" />
       <root url="file://$USER_HOME$/go/src/github.com" />
       <root url="file://$USER_HOME$/go/src/gopkg.in" />
